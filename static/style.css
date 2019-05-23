@@ -1,0 +1,17 @@
+#container{
+    padding: 0%;
+    margin: 0%;
+    display: inline-block;
+}
+
+.farm, 
+.cave, 
+.house, 
+.casino{
+    display: inline-block;
+    text-align: center;
+    border: 2px solid black;
+    height: 150px;
+    width: 200px;
+    margin: 5px;
+}
